@@ -3,8 +3,8 @@
 
 &nbsp;
 
-![GitHub](https://img.shields.io/badge/Zucheli-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linkedin](https://img.shields.io/badge/Mateus_Zucheli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![GitHub](https://img.shields.io/badge/Zucheli-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zucheli)
+[![Linkedin](https://img.shields.io/badge/Mateus_Zucheli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-zucheli-8b5b76171/)
 ![Email](https://img.shields.io/badge/mateuszucheli@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
 ## 🚀💻 Technologies and tools I've used 
@@ -29,3 +29,6 @@
 
 ## ⚡ GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zucheli&layout=compact)](https://github.com/Zucheli/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zucheli&show_icons=true&theme=dracula)
