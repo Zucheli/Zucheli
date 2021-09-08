@@ -4,7 +4,9 @@
 &nbsp;
 
 [![GitHub](https://img.shields.io/badge/Zucheli-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zucheli)
-[![Linkedin](https://img.shields.io/badge/Mateus_Zucheli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-zucheli-8b5b76171/)
+<br/><br/>
+[![Linkedin](https://img.shields.io/badge/Mateus_Zucheli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateuszucheli/)
+<br/><br/>
 [![Email](https://img.shields.io/badge/mateuszucheli@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mateuszucheli@hotmail.com)
 
 ## 🚀💻 Technologies and tools I've used 
