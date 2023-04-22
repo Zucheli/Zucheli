@@ -1,10 +1,6 @@
 # Hi 👋🏼, I am Mateus
-21 y.o., Information Systems Student (FIAP) and future Front End Developer!
+22 y.o., Information Systems Student (FIAP) and Front End Developer!
 
-&nbsp;
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=&logoColor=white)](https://mateuszucheli.netlify.app/)
-<br/><br/>
 [![GitHub](https://img.shields.io/badge/Zucheli-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zucheli)
 <br/><br/>
 [![Linkedin](https://img.shields.io/badge/Mateus_Zucheli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateuszucheli/)
@@ -24,6 +20,8 @@
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Backend as a Service(BaaS)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
@@ -39,6 +37,7 @@
 
 ### IDE's
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ### Design
@@ -49,6 +48,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=Expo&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 ## ⚡ GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zucheli&layout=compact)](https://github.com/Zucheli/github-readme-stats)
