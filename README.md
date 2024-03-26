@@ -1,10 +1,8 @@
 # Hi 👋🏼, I am Mateus
-22 y.o., Information Systems Student (FIAP) and Front End Developer!
+22 y.o., Graduated in Information Systems Student and Front End Developer!
 
 [![GitHub](https://img.shields.io/badge/Zucheli-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zucheli)
-<br/><br/>
 [![Linkedin](https://img.shields.io/badge/Mateus_Zucheli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateuszucheli/)
-<br/><br/>
 [![Email](https://img.shields.io/badge/mateuszucheli@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mateuszucheli@hotmail.com)
 
 ## 🚀💻 Technologies and tools I've used 
@@ -16,12 +14,10 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### Frameworks
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Backend as a Service(BaaS)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
